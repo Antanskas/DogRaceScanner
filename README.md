@@ -1,2 +1,2 @@
 # DogRaceScanner
-Application to detect dog race AI
+Application to detect dog race using AI
